@@ -1,0 +1,6 @@
+[submodule "AI_lib"]
+	path = AI_lib
+	url = git@github.com:Bongo044152/AI_lib.git
+[submodule "AI_tools"]
+	path = AI_tools
+	url = git@github.com:Bongo044152/AI_tools.git
